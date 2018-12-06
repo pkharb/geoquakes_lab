@@ -1,0 +1,15 @@
+body{
+  /* background-image: url('./../images/img.jpg'); */
+  
+}
+
+.container {
+    padding-bottom: 50px;
+    /* background: lightblue; */
+  }
+  
+  #map {
+    height: 600px;
+    margin-top: 20px;
+    opacity: 0.9;
+  }
